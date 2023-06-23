@@ -5,7 +5,7 @@ I am Front End Vue developer.
 --------------------------
 
 *   🌍  I'm based in Almaty, Kazakhstan
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://pf.knurkasym.ru/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://knurkasym.ru/'>Portfolio</a>
 *   🧠  Currently learning TypeScript and React
 *   🤝  I'm open to collaborating on interesting projects as a developer
 ### Skills  
