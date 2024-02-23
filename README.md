@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kairat Nurkasym
 ========================================================================================================================================
 
-I am Front End Vue developer.
+I am Full-stack developer.
 --------------------------
 
-*   🌍  I'm based in Almaty, Kazakhstan
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://knurkasym.ru/'>Portfolio</a>
-*   🧠  Currently learning TypeScript and React
-*   🤝  I'm open to collaborating on interesting projects as a developer
+- 🌍 I'm located in Almaty, Kazakhstan
+- 🖥️ View my portfolio at <a target="_blank" rel="noreferrer" href='https://knurkasym.ru/'>Portfolio</a>
+- 🧠 I'm currently learning Docker and PostgreSQL
+- 🤝 I'm available to collaborate on interesting projects as a developer
 ### Skills  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
