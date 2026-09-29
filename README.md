@@ -7,7 +7,7 @@
 - 🤖 Integrating LLMs and AI agents into real business workflows
 - 🎓 Digital Engineering @ Narxoz University
 - 🤝 Open to collaboration on backend, automation and AI projects
-- 💼 Portfolio: [knurkasym.ru](https://knurkasym.ru/)
+- 💼 Portfolio: [knurkasym.kz](https://knurkasym.kz/)
 
 ### 🧰 Tech Stack
 
